@@ -1,1 +1,1 @@
-# Netflix_Data_analysis
+Analyzed Netflix data using Power BI, uncovering trends in content availability, genre popularity, and ratings. Built an interactive dashboard showcasing top genres, viewing trends, and global content distribution using Excel as the data source.
